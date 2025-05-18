@@ -5,7 +5,9 @@ Multi-year analysis of sales, customer behavior, top products, delivery performa
 
 ## Total Figures:
 Total Sales: $1,28,16,827
+
 Total Orders: 70,000
+
 Total Profit: $15,58,004
 
 ## Delivery Performance Overview:
