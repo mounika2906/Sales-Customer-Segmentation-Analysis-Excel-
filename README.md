@@ -1,4 +1,4 @@
-# Sales-Customer-Segmentation-Analysis-Excel-
+# Sales-Customer-Segmentation-Analysis-Excel
 Multi-year analysis of sales, customer behavior, top products, delivery performance, and market segments with key business recommendations.
 
 ![Image Alt](https://github.com/mounika2906/Sales-Customer-Segmentation-Analysis-Excel-/blob/af82fa95779bf73663c2deea8a48dc269d53d869/excel%20dashboard.png)
