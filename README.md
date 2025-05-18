@@ -12,6 +12,7 @@ Total Profit: $15,58,004
 
 ## Delivery Performance Overview:
 On Time Deliveries: 54.79%
+
 Delayed Deliveries: 45.21%
 
 ### Sales Performance Analysis
