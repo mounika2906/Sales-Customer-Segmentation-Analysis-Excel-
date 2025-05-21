@@ -1,91 +1,29 @@
 # Sales-Customer-Segmentation-Analysis-Excel
 Multi-year analysis of sales, customer behavior, top products, delivery performance, and market segments with key business recommendations.
+[Project link](
+[Document link](https://docs.google.com/document/d/1SBu_hUscHLNzd_gVO0lrupuVVBE0pc1UFX6mpqemQmk/edit?usp=sharing)
 
 ![Image Alt](https://github.com/mounika2906/Sales-Customer-Segmentation-Analysis-Excel-/blob/af82fa95779bf73663c2deea8a48dc269d53d869/excel%20dashboard.png)
 
-## Total Figures:
-Total Sales: $1,28,16,827
 
-Total Orders: 70,000
+# Retail Sales & Customer Segmentation Analysis (Excel Dashboard)
 
-Total Profit: $15,58,004
+## Introduction
+This project analyzes multi-year retail sales and customer data using Excel dashboards. It uncovers trends in sales, customer engagement, product performance, delivery efficiency, and market segmentation to support business decisions.
 
-## Delivery Performance Overview:
-On Time Deliveries: 54.79%
+## Problem Statement
+The company faces challenges such as frequent delivery delays, low product conversion rates despite high views, and limited growth in corporate and regional markets. These issues affect customer satisfaction and overall sales.
 
-Delayed Deliveries: 45.21%
-
-### Sales Performance Analysis
-Sales stayed steady, but there was a dip in early 2018—worth investigating.
-Ongoing tracking helps spot seasonal patterns.
-
-### Sales vs. Views
-Some products get many views but few sales.
-Suggest running A/B tests and improving product pages to boost conversions.
-
-### Product Insights
-Items like Field & Stream Fire Safe sell well.
-Promote top products or bundle them to increase overall sales.
-
-### Customer Segmentation
-Most sales come from consumers.
-Adjust marketing to target corporate and home office buyers too.
-
-### Delivery Performance
-45.21% of orders are delayed.
-Improve logistics to boost satisfaction and loyalty.
-
-### Top Customers
-Example: Mary Smith made 9,113 orders.
-Use loyalty programs or offers to keep such customers engaged.
-
-### Market Expansion
-Explore growth in low-performing regions like LATAM, Europe, and Africa.
-Do market research to identify and fix issues.
-
-### Data-Driven Strategy
-Regularly review dashboards to track progress and improve strategies.
+## Key Insights
+- Sales were generally steady, with a dip observed in early 2018.  
+- Over 60,000 unique online visitors indicate strong customer engagement.  
+- High product views but low sales highlight poor conversion rates.  
+- Top-selling products and key customers present opportunities for promotions and loyalty programs.  
+- Majority of sales come from consumers; corporate and home office segments have growth potential.  
+- Delivery delays affect more than 54% of orders, pointing to logistics inefficiencies.
 
 ## Conclusion
-Better delivery, smarter marketing, and strong customer focus can drive both sales and satisfaction
+Improving delivery performance, optimizing marketing strategies, and focusing on high-performing products can enhance sales and customer satisfaction. Continuous monitoring with dashboards enables effective data-driven decision-making.
 
-## Sales & Orders Overview
-Total Sales: $128.17M across all years
-
-### By Year:
-2015: $43.21M
-2016: $43.03M
-2017: $40.70M
-2018: Data not visible
-
-### Monthly Trends
-Sales rise and fall throughout the year, possibly due to marketing, product launches, or seasons.
-
-### Customer Engagement
-Unique IPs: 60,000 – showing strong online activity
-Useful for refining digital marketing efforts.
-
-### Top Products
-Best Seller: Field & Stream Sportsman 16 Gun Fire Safe – $242,152
-Others include fitness decks and athletic shoes – showing high interest in sports and safety gear.
-
-### Market Segments
-Consumer: 51.88%
-Corporate: 30.41%
-Home Office: 17.71%
-Suggests more focus on consumer sales, with room to grow in corporate.
-
-### Top Customer Insight
-Mary Smith: 9,113 orders and $1.56M profit
-Highlights the value of loyal customers for personalized offers or loyalty programs.
-
-### Recommendations
-Improve digital marketing using customer data
-Fix delivery delays to boost satisfaction
-Track sales trends to adapt quickly
-Focus on high-profit products for better returns
-
-## Conclusion
-Combining supply chain improvements with smarter marketing can boost both efficiency and customer engagement. Regular data review is key to staying ahead.
 
 
